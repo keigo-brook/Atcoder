@@ -1,0 +1,15 @@
+-- Example 0
+40
+-- Answer 0
+DiscoPresentsDiscoveryChannelProgramming
+Contest2016
+-- Example 1
+17
+-- Answer 1
+DiscoPresentsDisc
+overyChannelProgr
+ammingContest2016
+-- Example 2
+51
+-- Answer 2
+DiscoPresentsDiscoveryChannelProgrammingContest2016

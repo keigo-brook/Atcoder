@@ -1,0 +1,12 @@
+-- Example 0
+4 4 1
+2 2
+-- Answer 0
+18
+-- Example 1
+9 9 3
+3 2
+4 5
+7 7
+-- Answer 1
+4380

@@ -1,0 +1,20 @@
+-- Example 0
+3 2
+abc
+-- Answer 0
+abc
+-- Example 1
+7 2
+atcoder
+-- Answer 1
+actoder
+-- Example 2
+7 7
+atcoder
+-- Answer 2
+acdeort
+-- Example 3
+10 3
+helloworld
+-- Answer 3
+dehloworll

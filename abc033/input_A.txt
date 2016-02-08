@@ -1,0 +1,12 @@
+-- Example 0
+2222
+-- Answer 0
+SAME
+-- Example 1
+1221
+-- Answer 1
+DIFFERENT
+-- Example 2
+0000
+-- Answer 2
+SAME

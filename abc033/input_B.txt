@@ -1,0 +1,35 @@
+-- Example 0
+4
+unagi 20
+usagi 13
+snuke 42
+smeke 7
+-- Answer 0
+snuke
+-- Example 1
+5
+a 10
+b 20
+c 30
+d 40
+e 100
+-- Answer 1
+atcoder
+-- Example 2
+14
+yasuzuka 3340
+uragawara 4032
+oshima 2249
+maki 2614
+kakizaki 11484
+ogata 10401
+kubiki 9746
+yoshikawa 5142
+joetsu 100000
+nakago 4733
+itakura 7517
+kiyosato 3152
+sanwa 6190
+nadachi 3169
+-- Answer 2
+joetsu

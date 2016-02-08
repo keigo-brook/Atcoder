@@ -1,0 +1,12 @@
+-- Example 0
+5 2 6 3
+-- Answer 0
+AOKI
+-- Example 1
+100 80 100 73
+-- Answer 1
+TAKAHASHI
+-- Example 2
+66 30 55 25
+-- Answer 2
+DRAW

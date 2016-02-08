@@ -1,0 +1,18 @@
+-- Example 0
+2
+3
+8
+-- Answer 0
+12
+-- Example 1
+2
+2
+2
+-- Answer 1
+2
+-- Example 2
+12
+8
+25
+-- Answer 2
+48

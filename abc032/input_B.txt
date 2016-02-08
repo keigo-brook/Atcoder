@@ -1,0 +1,15 @@
+-- Example 0
+abcabc
+2
+-- Answer 0
+3
+-- Example 1
+aaaaa
+1
+-- Answer 1
+1
+-- Example 2
+hello
+10
+-- Answer 2
+0
