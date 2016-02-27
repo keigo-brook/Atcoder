@@ -1,0 +1,12 @@
+-- Example 0
+31 87
+-- Answer 0
+2784
+-- Example 1
+101 65
+-- Answer 1
+6666
+-- Example 2
+3 3
+-- Answer 2
+12

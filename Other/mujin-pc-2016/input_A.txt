@@ -1,0 +1,26 @@
+-- Example 0
+A
+-- Answer 0
+Left
+-- Example 1
+P
+-- Answer 1
+Right
+-- Example 2
+H
+-- Answer 2
+Left
+-- Example 3
+c
+-- Answer 3
+A
+-- Example 4
+Left
+-- Answer 4
+P
+-- Example 5
+Right
+-- Answer 5
+H
+-- Example 6
+Left
