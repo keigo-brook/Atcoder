@@ -1,0 +1,8 @@
+-- Example 0
+dog
+-- Answer 0
+dogs
+-- Example 1
+chokudai
+-- Answer 1
+chokudais

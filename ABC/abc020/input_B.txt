@@ -1,0 +1,8 @@
+-- Example 0
+1 23
+-- Answer 0
+246
+-- Example 1
+999 999
+-- Answer 1
+1999998

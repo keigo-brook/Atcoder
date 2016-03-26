@@ -1,0 +1,8 @@
+-- Example 0
+3661
+-- Answer 0
+01:01:01
+-- Example 1
+86399
+-- Answer 1
+23:59:59

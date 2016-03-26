@@ -1,0 +1,30 @@
+-- Example 0
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+-- Answer 0
+8
+-- Example 1
+rrrrrrrrrr
+srrrrrrrrr
+rsr
+ssr
+rrs
+srsrrrrrr
+rssrrrrrr
+sss
+rrr
+srr
+rsrrrrrrrr
+ssrrrrrrrr
+-- Answer 1
+11

@@ -1,0 +1,10 @@
+-- Example 0
+isuruu
+isleapyear
+-- Answer 0
+isleapyear
+-- Example 1
+ttttiiiimmmmeeee
+time
+-- Answer 1
+ttttiiiimmmmeeee

@@ -1,0 +1,11 @@
+-- Example 0
+2013
+-- Answer 0
+2 x 6
+3 x 4
+4 x 3
+6 x 2
+-- Example 1
+2024
+-- Answer 1
+1 x 1

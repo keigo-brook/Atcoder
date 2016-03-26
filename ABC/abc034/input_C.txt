@@ -1,0 +1,8 @@
+-- Example 0
+4 3
+-- Answer 0
+10
+-- Example 1
+123 456
+-- Answer 1
+210368064

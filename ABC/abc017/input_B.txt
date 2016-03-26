@@ -1,0 +1,12 @@
+-- Example 0
+chokuou
+-- Answer 0
+YES
+-- Example 1
+kuccho
+-- Answer 1
+NO
+-- Example 2
+atcoder
+-- Answer 2
+NO

@@ -1,0 +1,12 @@
+-- Example 0
+BEAF
+-- Answer 0
+1 1 0 0 1 1
+-- Example 1
+DECADE
+-- Answer 1
+1 0 1 2 2 0
+-- Example 2
+ABBCCCDDDDEEEEEFFFFFF
+-- Answer 2
+1 2 3 4 5 6

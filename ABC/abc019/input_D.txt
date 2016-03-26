@@ -1,0 +1,36 @@
+-- Example 0
+? a b
+-- Answer 0
+! diameter
+-- Example 1
+printf("? %d %d\n", 1, 2);
+fflush(stdout);
+scanf("%d", &dist);
+-- Answer 1
+cout > dist;
+-- Example 2
+System.out.printf("? %d %d\n", 1, 2);
+Scanner scanner = new Scanner(System.in);
+dist = scanner.nextInt();
+-- Answer 2
+Console.WriteLine("? {0} {1}", 1, 2);
+dist = int.Parse(Console.ReadLine());
+-- Example 3
+writeln("? ", 1, " ", 2);
+stdout.flush();
+dist = readln.chomp.to!int;
+-- Answer 3
+echo "? ", 1, " ", 2, PHP_EOL;
+$dist = trim(fgets(STDIN));
+-- Example 4
+print "? {0} {1}".format(1, 2)
+sys.stdout.flush()
+dist = int(raw_input())
+-- Answer 4
+$|=1;
+print "? ", 1, " ", 2, "\n";
+$dist = ;
+-- Example 5
+print "? ", 1, " ", 2, "\n"
+STDOUT.flush
+dist = gets.to_i

@@ -1,0 +1,15 @@
+-- Example 0
+abcde
+8
+-- Answer 0
+bc
+-- Example 1
+aeiou
+22
+-- Answer 1
+ue
+-- Example 2
+vwxyz
+25
+-- Answer 2
+zz

@@ -1,0 +1,20 @@
+-- Example 0
+3
+abc
+-- Answer 0
+1
+-- Example 1
+6
+abcabc
+-- Answer 1
+-1
+-- Example 2
+7
+atcoder
+-- Answer 2
+-1
+-- Example 3
+19
+bcabcabcabcabcabcab
+-- Answer 3
+9

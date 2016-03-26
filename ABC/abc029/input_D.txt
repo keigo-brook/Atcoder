@@ -1,0 +1,12 @@
+-- Example 0
+12
+-- Answer 0
+5
+-- Example 1
+345
+-- Answer 1
+175
+-- Example 2
+999999999
+-- Answer 2
+900000000

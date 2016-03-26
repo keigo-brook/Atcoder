@@ -1,0 +1,8 @@
+-- Example 0
+taKahAshI
+-- Answer 0
+Takahashi
+-- Example 1
+A
+-- Answer 1
+A

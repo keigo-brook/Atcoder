@@ -1,0 +1,8 @@
+-- Example 0
+12 34
+-- Answer 0
+Better
+-- Example 1
+98 56
+-- Answer 1
+Worse

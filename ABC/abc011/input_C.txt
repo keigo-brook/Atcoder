@@ -1,0 +1,21 @@
+-- Example 0
+2
+1
+7
+15
+-- Answer 0
+YES
+-- Example 1
+5
+1
+4
+2
+-- Answer 1
+YES
+-- Example 2
+300
+57
+121
+244
+-- Answer 2
+NO

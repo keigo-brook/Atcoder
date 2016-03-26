@@ -1,0 +1,16 @@
+-- Example 0
+80
+-- Answer 0
+Good
+-- Example 1
+100
+-- Answer 1
+Perfect
+-- Example 2
+59
+-- Answer 2
+Bad
+-- Example 3
+95
+-- Answer 3
+Great

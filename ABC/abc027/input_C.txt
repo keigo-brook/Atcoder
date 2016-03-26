@@ -1,0 +1,20 @@
+-- Example 0
+1
+-- Answer 0
+Aoki
+-- Example 1
+5
+-- Answer 1
+Takahashi
+-- Example 2
+7
+-- Answer 2
+Aoki
+-- Example 3
+10
+-- Answer 3
+Takahashi
+-- Example 4
+123456789123456789
+-- Answer 4
+Aoki

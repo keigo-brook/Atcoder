@@ -1,0 +1,8 @@
+-- Example 0
+1 2
+-- Answer 0
+2 1
+-- Example 1
+5 5
+-- Answer 1
+5 5

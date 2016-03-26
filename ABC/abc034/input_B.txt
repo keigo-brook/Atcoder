@@ -1,0 +1,8 @@
+-- Example 0
+100
+-- Answer 0
+99
+-- Example 1
+123456789
+-- Answer 1
+123456790
