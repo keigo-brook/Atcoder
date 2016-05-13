@@ -1,0 +1,15 @@
+-- Example 0
+abcdef
+2
+3 5
+1 4
+-- Answer 0
+debacf
+-- Example 1
+redcoat
+3
+1 7
+1 2
+3 4
+-- Answer 1
+atcoder

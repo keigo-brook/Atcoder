@@ -1,0 +1,16 @@
+-- Example 0
+xyz
+-- Answer 0
+xy
+-- Example 1
+c
+-- Answer 1
+b
+-- Example 2
+a
+-- Answer 2
+-1
+-- Example 3
+aaaaa
+-- Answer 3
+aaaa

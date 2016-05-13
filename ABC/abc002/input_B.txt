@@ -1,0 +1,16 @@
+-- Example 0
+chokudai
+-- Answer 0
+chkd
+-- Example 1
+okanemochi
+-- Answer 1
+knmch
+-- Example 2
+aoki
+-- Answer 2
+k
+-- Example 3
+mazushii
+-- Answer 3
+mzsh

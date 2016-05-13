@@ -1,0 +1,11 @@
+-- Example 0
+4
+ooxx
+xoox
+xxxx
+xxxx
+-- Answer 0
+xxxo
+xxoo
+xxox
+xxxx

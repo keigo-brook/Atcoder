@@ -1,0 +1,16 @@
+-- Example 0
+1
+-- Answer 0
+213456
+-- Example 1
+5
+-- Answer 1
+234561
+-- Example 2
+22
+-- Answer 2
+615234
+-- Example 3
+100000000
+-- Answer 3
+345612

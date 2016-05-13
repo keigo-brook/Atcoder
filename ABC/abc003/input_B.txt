@@ -1,0 +1,15 @@
+-- Example 0
+ch@ku@ai
+choku@@i
+-- Answer 0
+You can win
+-- Example 1
+aoki
+@ok@
+-- Answer 1
+You will lose
+-- Example 2
+arc
+abc
+-- Answer 2
+You will lose

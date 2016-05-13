@@ -1,0 +1,8 @@
+-- Example 0
+6
+-- Answer 0
+35000
+-- Example 1
+91
+-- Answer 1
+460000

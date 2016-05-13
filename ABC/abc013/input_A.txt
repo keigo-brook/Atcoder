@@ -1,0 +1,16 @@
+-- Example 0
+A
+-- Answer 0
+1
+-- Example 1
+B
+-- Answer 1
+2
+-- Example 2
+C
+-- Answer 2
+3
+-- Example 3
+D
+-- Answer 3
+4

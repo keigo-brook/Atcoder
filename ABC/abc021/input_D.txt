@@ -1,0 +1,39 @@
+-- Example 0
+n←(標準入力)
+k←(標準入力)
+ans←0
+for a_1=1..n
+  for a_2=a_1..n
+    for a_3=a_2..n
+      …
+      for a_k=a_{k-1}..n // a_0=1とする
+        ans ← ans+1
+ansの値を表示
+-- Answer 0
+n
+k
+-- Example 1
+10
+2
+-- Answer 1
+55
+-- Example 2
+10
+3
+-- Answer 2
+220
+-- Example 3
+10
+4
+-- Answer 3
+715
+-- Example 4
+400
+296
+-- Answer 4
+546898535
+-- Example 5
+100000
+100000
+-- Answer 5
+939733670

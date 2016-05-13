@@ -1,0 +1,20 @@
+-- Example 0
+. . . .
+. o o .
+. x x .
+. . . .
+-- Answer 0
+. . . .
+. x x .
+. o o .
+. . . .
+-- Example 1
+o o x x
+o o x x
+x x o o
+x x o o
+-- Answer 1
+o o x x
+o o x x
+x x o o
+x x o o

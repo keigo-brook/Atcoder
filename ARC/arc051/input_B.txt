@@ -1,0 +1,14 @@
+-- Example 0
+K
+-- Answer 0
+1
+-- Example 1
+1 1
+-- Answer 1
+3
+-- Example 2
+4 5
+-- Answer 2
+12
+-- Example 3
+314159265 358979323

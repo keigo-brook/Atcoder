@@ -1,0 +1,26 @@
+-- Example 0
+4
+taro
+jiro
+taro
+saburo
+-- Answer 0
+taro
+-- Example 1
+1
+takahashikun
+-- Answer 1
+takahashikun
+-- Example 2
+9
+a
+b
+c
+c
+b
+c
+b
+d
+e
+-- Answer 2
+b

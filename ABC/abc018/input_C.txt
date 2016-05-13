@@ -1,0 +1,28 @@
+-- Example 0
+4 5 2
+xoooo
+oooox
+ooooo
+oxxoo
+-- Answer 0
+3
+-- Example 1
+4 5 2
+ooooo
+oxoox
+oooox
+oxxoo
+-- Answer 1
+0
+-- Example 2
+8 6 3
+oooooo
+oooooo
+oooooo
+oooooo
+oxoooo
+oooooo
+oooooo
+oooooo
+-- Answer 2
+4

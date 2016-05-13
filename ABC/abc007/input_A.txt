@@ -1,0 +1,12 @@
+-- Example 0
+4
+-- Answer 0
+3
+-- Example 1
+100
+-- Answer 1
+99
+-- Example 2
+1
+-- Answer 2
+0

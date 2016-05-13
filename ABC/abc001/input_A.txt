@@ -1,0 +1,15 @@
+-- Example 0
+15
+10
+-- Answer 0
+5
+-- Example 1
+0
+0
+-- Answer 1
+0
+-- Example 2
+5
+20
+-- Answer 2
+-15

@@ -1,0 +1,12 @@
+-- Example 0
+2 3 4
+-- Answer 0
+7
+-- Example 1
+17 2 34
+-- Answer 1
+362
+-- Example 2
+267 294 165
+-- Answer 2
+88577

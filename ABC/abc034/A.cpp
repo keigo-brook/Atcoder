@@ -4,12 +4,6 @@
 
 using namespace std;
 int main() {
-    int a, b;
-    cin >> a >> b;
-    if (a < b) {
-        cout << "Better" << endl;
-    } else {
-        cout << "Worse" << endl;
-    }
+    pr
     return 0;
 }

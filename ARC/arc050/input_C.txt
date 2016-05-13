@@ -1,0 +1,12 @@
+-- Example 0
+2 3 100
+-- Answer 0
+21
+-- Example 1
+2 2 121
+-- Answer 1
+11
+-- Example 2
+10000000000 1 10007
+-- Answer 2
+825

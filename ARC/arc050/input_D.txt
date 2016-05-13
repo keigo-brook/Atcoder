@@ -1,0 +1,22 @@
+-- Example 0
+3
+arc
+-- Answer 0
+1
+3
+2
+-- Example 1
+2
+zz
+-- Answer 1
+1
+2
+-- Example 2
+5
+abaab
+-- Answer 2
+3
+1
+4
+2
+5

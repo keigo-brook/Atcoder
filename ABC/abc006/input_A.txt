@@ -1,0 +1,12 @@
+-- Example 0
+2
+-- Answer 0
+NO
+-- Example 1
+9
+-- Answer 1
+YES
+-- Example 2
+3
+-- Answer 2
+YES

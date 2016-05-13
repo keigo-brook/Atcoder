@@ -1,0 +1,12 @@
+-- Example 0
+A a
+-- Answer 0
+Yes
+-- Example 1
+B c
+-- Answer 1
+No
+-- Example 2
+Z z
+-- Answer 2
+Yes

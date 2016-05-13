@@ -1,0 +1,32 @@
+-- Example 0
+2750 628
+-- Answer 0
+W 5
+-- Example 1
+161 8
+-- Answer 1
+C 0
+-- Example 2
+3263 15
+-- Answer 2
+NNW 1
+-- Example 3
+1462 1959
+-- Answer 3
+SE 12
+-- Example 4
+1687 1029
+-- Answer 4
+SSE 8
+-- Example 5
+2587 644
+-- Answer 5
+WSW 5
+-- Example 6
+113 201
+-- Answer 6
+NNE 3
+-- Example 7
+2048 16
+-- Answer 7
+SSW 1

@@ -1,0 +1,16 @@
+-- Example 0
+12
+18
+11
+-- Answer 0
+2
+1
+3
+-- Example 1
+10
+20
+30
+-- Answer 1
+3
+2
+1

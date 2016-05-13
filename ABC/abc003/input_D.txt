@@ -1,0 +1,28 @@
+-- Example 0
+3 2
+2 2
+2 2
+-- Answer 0
+12
+-- Example 1
+DD  DL  DL  LD  LD  LL  ..  ..  ..  ..  ..  ..
+LL  DL  LD  DL  LD  DD  DD  DL  DL  LD  LD  LL
+..  ..  ..  ..  ..  ..  LL  DL  LD  DL  LD  DD
+-- Answer 1
+4 5
+3 1
+3 0
+-- Example 2
+10
+-- Answer 2
+23 18
+15 13
+100 95
+-- Example 3
+364527243
+-- Answer 3
+30 30
+24 22
+145 132
+-- Example 4
+976668549
