@@ -1,0 +1,16 @@
+-- Example 0
+rokovoko
+-- Answer 0
+3
+-- Example 1
+tomtom
+-- Answer 1
+6
+-- Example 2
+vwxyz
+-- Answer 2
+1
+-- Example 3
+succeeded
+-- Answer 3
+3
