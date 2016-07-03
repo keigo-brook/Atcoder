@@ -1,0 +1,12 @@
+-- Example 0
+1
+-- Answer 0
+1
+-- Example 1
+981506241
+-- Answer 1
+177
+-- Example 2
+390625
+-- Answer 2
+25

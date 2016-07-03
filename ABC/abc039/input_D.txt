@@ -1,0 +1,32 @@
+-- Example 0
+4 4
+##..
+##..
+..##
+..##
+-- Answer 0
+possible
+#...
+....
+....
+...#
+-- Example 1
+4 4
+###.
+####
+..##
+..##
+-- Answer 1
+possible
+##..
+....
+...#
+...#
+-- Example 2
+4 4
+###.
+##.#
+..##
+..##
+-- Answer 2
+impossible

@@ -1,0 +1,12 @@
+-- Example 0
+takaitai
+-- Answer 0
+2
+-- Example 1
+aaaaaaaaaa
+-- Answer 1
+6
+-- Example 2
+abcabc
+-- Answer 2
+0

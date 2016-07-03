@@ -1,0 +1,16 @@
+-- Example 0
+6925814703
+-- Answer 0
+6
+-- Example 1
+6925814704
+-- Answer 1
+61
+-- Example 2
+6925814705
+-- Answer 2
+-1
+-- Example 3
+9
+-- Answer 3
+9
