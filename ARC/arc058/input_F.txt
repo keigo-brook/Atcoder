@@ -1,0 +1,50 @@
+-- Example 0
+3 7
+at
+coder
+codar
+-- Answer 0
+atcodar
+-- Example 1
+3 7
+coder
+codar
+at
+-- Answer 1
+codarat
+-- Example 2
+4 13
+kyuri
+namida
+zzzzzzz
+aaaaaa
+-- Answer 2
+namidazzzzzzz
+-- Example 3
+N K
+s_1
+s_2
+:
+s_N
+-- Answer 3
+3 7
+at
+coder
+codar
+-- Example 4
+atcodar
+-- Answer 4
+3 7
+coder
+codar
+at
+-- Example 5
+codarat
+-- Answer 5
+4 13
+kyuri
+namida
+zzzzzzz
+aaaaaa
+-- Example 6
+namidazzzzzzz

@@ -1,0 +1,48 @@
+-- Example 0
+N
+v_1 w_1
+v_2 w_2
+:
+v_{N-1} w_{N-1}
+-- Answer 0
+H W
+c_{1,1}c_{1,2} … c_{1,W}
+c_{2,1}c_{2,2} … c_{2,W}
+:
+c_{H,1}c_{H,2} … c_{H,W}
+-- Example 1
+10
+A B
+A C
+A D
+B E
+B F
+B G
+C H
+F I
+I J
+-- Answer 1
+8 12
+............
+...D...E....
+...|...|....
+.C-A---B---F
+.|.....|...|
+.|.....G.J-I
+.H..........
+............
+-- Example 2
+7
+A B
+B C
+C D
+D E
+E F
+F G
+-- Answer 2
+5 4
+.A-B
+E-F|
+|.||
+|.G|
+D--C

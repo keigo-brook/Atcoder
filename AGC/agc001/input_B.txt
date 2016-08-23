@@ -1,0 +1,10 @@
+-- Example 0
+5 2
+-- Answer 0
+12
+-- Example 1
+N X
+-- Answer 1
+5 2
+-- Example 2
+12

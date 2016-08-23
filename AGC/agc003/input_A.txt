@@ -1,0 +1,34 @@
+-- Example 0
+SENW
+-- Answer 0
+Yes
+-- Example 1
+NSNNSNSN
+-- Answer 1
+Yes
+-- Example 2
+NNEW
+-- Answer 2
+No
+-- Example 3
+W
+-- Answer 3
+No
+-- Example 4
+S
+-- Answer 4
+SENW
+-- Example 5
+Yes
+-- Answer 5
+NSNNSNSN
+-- Example 6
+Yes
+-- Answer 6
+NNEW
+-- Example 7
+No
+-- Answer 7
+W
+-- Example 8
+No

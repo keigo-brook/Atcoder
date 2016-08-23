@@ -1,0 +1,34 @@
+-- Example 0
+2 3 1 1
+-- Answer 0
+2
+-- Example 1
+10 7 3 4
+-- Answer 1
+3570
+-- Example 2
+100000 100000 99999 99999
+-- Answer 2
+1
+-- Example 3
+100000 100000 44444 55555
+-- Answer 3
+738162020
+-- Example 4
+H W A B
+-- Answer 4
+2 3 1 1
+-- Example 5
+2
+-- Answer 5
+10 7 3 4
+-- Example 6
+3570
+-- Answer 6
+100000 100000 99999 99999
+-- Example 7
+1
+-- Answer 7
+100000 100000 44444 55555
+-- Example 8
+738162020

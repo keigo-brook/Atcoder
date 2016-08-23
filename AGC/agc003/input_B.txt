@@ -1,0 +1,45 @@
+-- Example 0
+4
+4
+0
+3
+2
+-- Answer 0
+4
+-- Example 1
+8
+2
+0
+1
+6
+0
+8
+2
+1
+-- Answer 1
+9
+-- Example 2
+N
+A_1
+:
+A_N
+-- Answer 2
+4
+4
+0
+3
+2
+-- Example 3
+4
+-- Answer 3
+8
+2
+0
+1
+6
+0
+8
+2
+1
+-- Example 4
+9

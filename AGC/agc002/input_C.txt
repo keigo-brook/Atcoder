@@ -1,0 +1,45 @@
+-- Example 0
+3 50
+30 20 10
+-- Answer 0
+Possible
+2
+1
+-- Example 1
+2 21
+10 10
+-- Answer 1
+Impossible
+-- Example 2
+5 50
+10 20 30 40 50
+-- Answer 2
+Possible
+1
+2
+3
+4
+-- Example 3
+N L
+a_1 a_2 ... a_n
+-- Answer 3
+3 50
+30 20 10
+-- Example 4
+Possible
+2
+1
+-- Answer 4
+2 21
+10 10
+-- Example 5
+Impossible
+-- Answer 5
+5 50
+10 20 30 40 50
+-- Example 6
+Possible
+1
+2
+3
+4
