@@ -1,0 +1,63 @@
+-- Example 0
+3 3
+o.o
+.Eo
+ooo
+-- Answer 0
+3
+-- Example 1
+2 2
+E.
+..
+-- Answer 1
+0
+-- Example 2
+3 4
+o...
+o...
+oooE
+-- Answer 2
+5
+-- Example 3
+5 11
+ooo.ooo.ooo
+o.o.o...o..
+ooo.oE..o..
+o.o.o.o.o..
+o.o.ooo.ooo
+-- Answer 3
+12
+-- Example 4
+H W
+a_{11}...a_{1W}
+:
+a_{H1}...a_{HW}
+-- Answer 4
+3 3
+o.o
+.Eo
+ooo
+-- Example 5
+3
+-- Answer 5
+2 2
+E.
+..
+-- Example 6
+0
+-- Answer 6
+3 4
+o...
+o...
+oooE
+-- Example 7
+5
+-- Answer 7
+5 11
+ooo.ooo.ooo
+o.o.o...o..
+ooo.oE..o..
+o.o.o.o.o..
+o.o.ooo.ooo
+-- Example 8
+12
